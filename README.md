@@ -34,6 +34,17 @@ An unofficial curated list of HPMicro MCU related code and resources.
 - [SEGGER Embedded Studio for RISC-V](https://www.segger.com/downloads/embedded-studio/#ESforRISCV)
   - License application for HPMicro: <https://license.segger.com/hpmicro.cgi>
 
+## IP Cores
+
+The RISC-V IP cores are provided by Andes Technology Corporation.
+
+- [Andes Product Documentation](http://www.andestech.com/en/products-solutions/product-documentation/)
+  - The IP cores used by HPMicro are D25(F)(for HPM5xxx) and D45(for HPM6xxx)
+
+The M_CAN IP core is provided by Bosch.
+
+- Intro and documentation [M_CAN - Bosch](https://www.bosch-semiconductors.com/ip-modules/can-ip-modules/m-can/)
+
 ## Dev Boards
 
 - hpm5300evk
