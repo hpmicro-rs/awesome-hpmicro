@@ -32,7 +32,7 @@ An unofficial curated list of HPMicro MCU related code and resources.
 
 ### IDE Support
 
-- [SEGGER Embedded Studio for RISC-V](https://www.segger.com/downloads/embedded-studio/#ESforRISCV)
+- [SEGGER Embedded Studio for RISC-V and ARM](https://www.segger.com/downloads/embedded-studio/#embeddedstudio)
   - License application for HPMicro: <https://license.segger.com/hpmicro.cgi>
 
 ## IP Cores
