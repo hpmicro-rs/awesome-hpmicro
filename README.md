@@ -26,7 +26,8 @@ An unofficial curated list of HPMicro MCU related code and resources.
 ### Third-party RTOS Support
 
 - Zephyr: [zephyrproject-rtos/hal_hpmicro](https://github.com/zephyrproject-rtos/hal_hpmicro)
-- NuttX: [hpmicro/nuttx_apps](https://github.com/hpmicro/nuttx_apps)
+- NuttX: [hpmicro/nuttx](https://github.com/hpmicro/nuttx)
+  - [hpmicro/nuttx_apps](https://github.com/hpmicro/nuttx_apps)
 - RT-Thread: [RT-Thread/rt-thread/bsp/hpmicro](https://github.com/RT-Thread/rt-thread/tree/master/bsp/hpmicro)
 
 ### IDE Support
