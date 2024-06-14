@@ -4,11 +4,13 @@ An unofficial curated list of HPMicro MCU related code and resources.
 
 ## Official Resources
 
-- Homepage: [先楫半导体 HPMicro](http://www.hpmicro.com/)
-- Forum: [先楫社区](https://www.hpmicro.com/support/forumpark.html)
+- Homepage: [先楫半导体 HPMicro](https://www.hpmicro.com/)
+  - Datasheet, User Manual, Errata, Design Guide, KiCAD Footprint: [设计资源/芯片资料](https://www.hpmicro.com/resources/resources.html)
+  - Forum: [先楫社区](https://www.hpmicro.com/support/forumpark.html)
 - Online Shop: [在线购买](https://www.hpmicro.com/support/shop.html)
 - All-in-one Resources on Baidu Netdisk: [百度网盘](https://pan.baidu.com/s/1RaYHOD7xk7fnotmgLpoAlA?pwd=xk2n)
 - [Pinmux Tool](https://tools.hpmicro.com/pinmux)
+- [Bilibili - 先楫半导体HPMicro](https://space.bilibili.com/1306310554)
 
 ### Official Repositories
 
