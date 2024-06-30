@@ -46,6 +46,11 @@ The M_CAN IP core is provided by Bosch.
 
 - Intro and documentation [M_CAN - Bosch](https://www.bosch-semiconductors.com/ip-modules/can-ip-modules/m-can/)
 
+The EtherCAT Slave Controller IP core is provided by Beckhoff Automation.
+
+- PDF [Section I – Technology](https://download.beckhoff.com/download/document/io/ethercat-development-products/ethercat_esc_datasheet_sec1_technology_2i3.pdf)
+- PDF [Section II - Register Description](https://download.beckhoff.com/download/document/io/ethercat-development-products/ethercat_esc_datasheet_sec2_registers_3i0.pdf)
+
 ## Dev Boards
 
 - hpm5300evk
@@ -56,6 +61,7 @@ The M_CAN IP core is provided by Bosch.
 - hpm6750evk2
 - hpm6750evkmini
 - hpm6800evk
+- hpm6e00evk
 
 ## Contributing
 
