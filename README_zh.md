@@ -21,7 +21,7 @@
   - HPM SDK文档（中文）：[HPM SDK 文档](https://hpm-sdk.readthedocs.io/zh-cn/latest/)
   - HPM SDK文档（英文）：[HPM SDK Documentation](http://doc.hpmicro.com/sdk_doc/en/latest/html/index.html)
 - Arduino 支持：[hpmicro/arduino](https://github.com/hpmicro/arduino)
-- HPMicro 出厂工具：[hpm_manufacturing_tool](https://github.com/hpmicro/hpm_manufacturing_tool)
+- HPMicro 烧写工具：[hpm_manufacturing_tool](https://github.com/hpmicro/hpm_manufacturing_tool)
 - OpenOCD 分支：[hpmicro/riscv-openocd](https://github.com/hpmicro/riscv-openocd)
   - 相应的配置文件位于 `hpm_sdk/boards/openocd/`
 - VSCode扩展：[hpm_pinmux_tool](https://github.com/hpmicro/hpm_pinmux_tool) - 自2023年9月27日起未更新，请使用引脚复用工具代替。
@@ -60,8 +60,6 @@ EtherCAT 从站控制器 IP 核由 倍福(Beckhoff Automation) 提供。
 
 ## 开发板
 
-gherkin
-Copy
 | 开发板         | MCU     | FLASH | 外部 RAM   | USB          | 用户LED         | 用户按钮         | GPIO 接口            | 以太网   | 其他                                                    |
 |----------------|---------|-------|------------|--------------|-----------------|------------------|----------------------|----------|---------------------------------------------------------|
 | hpm5300evklite | HPM5301 | 1MB   | -          | 1 USB, 1 UART| 1 Red           | 1 Boot, 1 User   | RPi                  | -        |                                                         |
