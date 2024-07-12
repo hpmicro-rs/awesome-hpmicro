@@ -74,7 +74,7 @@ Refer: [hpm-data]
 
 - Motor 32pin is compatible with Motor 20pin
 - UART to USB chip CH340 for hpm5300evklite is unsoldered
-- [RPi] means [Raspberry Pi GPIO header compatible](https://pinout.xyz/)
+- RPi means [Raspberry Pi GPIO header compatible](https://pinout.xyz/)
 - [ART-Pi] is an open-source hardware platform for [RT-Thread], here it means [ART-Pi GPIO header compatible](https://art-pi.github.io/website/docs/#/tutorial/pin-description).
 - The P1 header of ART-Pi is compatible with RPi GPIO header
 

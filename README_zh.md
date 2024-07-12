@@ -76,9 +76,9 @@ Copy
 
 - Motor 32pin 与 Motor 20pin 兼容
 - hpm5300evklite 的 UART to USB 接口芯片 CH340 未焊接
-- [RPi] 表示 [兼容树莓派 GPIO](https://pinout.xyz/)
-- [ART-Pi] 是 [RT-Thread] 的一个开源硬件平台，这里表示 [兼容 ART-Pi GPIO](https://art-pi.github.io/website/docs/#/tutorial/pin-description)
-- ART-Pi 的 P1 与树莓派 GPIO 兼容
+- RPi 表示兼容 [树莓派 GPIO](https://pinout.xyz/)
+- [ART-Pi] 是 [RT-Thread] 的一个开源硬件平台，这里表示兼容 [ART-Pi GPIO](https://art-pi.github.io/website/docs/#/tutorial/pin-description)
+- ART-Pi 由两个排针座组成, 其中 P1 与树莓派 GPIO 兼容
 
 ## 社区资源
 
