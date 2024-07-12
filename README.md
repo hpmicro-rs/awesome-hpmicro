@@ -73,7 +73,7 @@ Refer: [hpm-data]
 | hpm6e00evk     | HPM6E80 | 16MB  | 32MB SDRAM | 1 USB, 1 DBG | 1 RGB           | 2 User           | RPi, Motor 32pin     | 1G       | 2 EtherCAT, Audio, ADC, CAN, PPI/FEMC(SDRAM)            |
 
 - Motor 32pin is compatible with Motor 20pin
-- UART chip CH340 for hpm5300evklite is unsoldered
+- UART to USB chip CH340 for hpm5300evklite is unsoldered
 - [RPi] means [Raspberry Pi GPIO header compatible](https://pinout.xyz/)
 - [ART-Pi] is an open-source hardware platform for [RT-Thread], here it means [ART-Pi GPIO header compatible](https://art-pi.github.io/website/docs/#/tutorial/pin-description).
 - The P1 header of ART-Pi is compatible with RPi GPIO header
@@ -91,6 +91,12 @@ Refer: [hpm-data]
 - RCSN
   - [RCSN06 - Bilibili](https://space.bilibili.com/281444293)
   - WeChat Official Account: RCSN嵌入式
+
+### Built with HPMicro
+
+Awesome Projects:
+
+- <https://github.com/cherry-embedded/CherryDAP>
 
 ## Contributing
 
