@@ -78,6 +78,20 @@ Refer: [hpm-data]
 - [ART-Pi] is an open-source hardware platform for [RT-Thread], here it means [ART-Pi GPIO header compatible](https://art-pi.github.io/website/docs/#/tutorial/pin-description).
 - The P1 header of ART-Pi is compatible with RPi GPIO header
 
+## Community Resources
+
+### Forums
+
+- ElecFans BBS [电子发烧友论坛 - 先楫半导体HPMicro](https://bbs.elecfans.com/group_1700)
+
+### Tutorials, Vlogger, and Bloggers
+
+- [HPM-FAE - Bilibili](https://space.bilibili.com/592932589)
+- [金探长Jeeed - Bilibili](https://space.bilibili.com/191119115)
+- RCSN
+  - [RCSN06 - Bilibili](https://space.bilibili.com/281444293)
+  - WeChat Official Account: RCSN嵌入式
+
 ## Contributing
 
 Contributions are welcome! If you have any suggestions, corrections, or additions, please feel free to open an issue or submit a pull request.
