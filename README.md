@@ -17,13 +17,17 @@ An unofficial curated list of HPMicro MCU related code and resources.
 
 - GitHub Organization: [GitHub - hpmicro](https://github.com/hpmicro)
 - Gitee Mirror: [Official mirror of HPMicro](https://gitee.com/hpmicro)
-- **Official SDK**: [hpmicro/hpm_sdk](https://github.com/hpmicro/hpm_sdk)
+- **Official SDK**: [hpmicro/hpm_sdk](https://github.com/hpmicro/hpm_sdk) v1.6.0
   - HPM SDK Documentation(zh-cn): [HPM SDK 文档](https://hpm-sdk.readthedocs.io/zh-cn/latest/)
   - HPM SDK Documentation(en): [HPM SDK Documentation](http://doc.hpmicro.com/sdk_doc/en/latest/html/index.html)
+  - Development Environment for Windows [hpmicro/sdk_env](https://github.com/hpmicro/sdk_env)
+  - Application Software Development Kit: [hpmicro/hpm_apps](https://github.com/hpmicro/hpm_apps) v1.6.0
+  - Extra demos from community: [hpmicro/hpm_sdk_extra](https://github.com/hpmicro/hpm_sdk_extra)
 - Arduino Support: [hpmicro/arduino](https://github.com/hpmicro/arduino)
-- HPMicro Manufacturing Tool: [hpm_manufacturing_tool](https://github.com/hpmicro/hpm_manufacturing_tool)
+- GNU GCC toolchain: [hpmicro/riscv-gnu-toolchain](https://github.com/hpmicro/riscv-gnu-toolchain)
 - OpenOCD Fork: [hpmicro/riscv-openocd](https://github.com/hpmicro/riscv-openocd)
   - The corresponding configuration files are located in `hpm_sdk/boards/openocd/`
+- HPMicro Manufacturing Tool: [hpm_manufacturing_tool](https://github.com/hpmicro/hpm_manufacturing_tool)
 - VSCode Extension: [hpm_pinmux_tool](https://github.com/hpmicro/hpm_pinmux_tool) - No update since September 27, 2023, use the Pinmux tool instead.
 
 ### Third-party RTOS Support
@@ -32,6 +36,7 @@ An unofficial curated list of HPMicro MCU related code and resources.
 - NuttX: [hpmicro/nuttx](https://github.com/hpmicro/nuttx)
   - [hpmicro/nuttx_apps](https://github.com/hpmicro/nuttx_apps)
 - RT-Thread: [RT-Thread/rt-thread/bsp/hpmicro](https://github.com/RT-Thread/rt-thread/tree/master/bsp/hpmicro)
+  - `rtt-bsp-` repos in official GitHub organization
 
 ### IDE Support
 
@@ -48,6 +53,7 @@ The RISC-V IP cores are provided by Andes Technology Corporation.
 The M_CAN IP core is provided by Bosch.
 
 - Intro and documentation [M_CAN - Bosch](https://www.bosch-semiconductors.com/ip-modules/can-ip-modules/m-can/)
+- [TSU Add-on](https://www.bosch-semiconductors.com/ip-modules/can-ip-modules/tsu-for-m-can/)
 
 The EtherCAT Slave Controller IP core is provided by Beckhoff Automation.
 

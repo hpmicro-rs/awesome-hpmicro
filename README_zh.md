@@ -17,13 +17,17 @@
 
 - GitHub 组织：[GitHub - hpmicro](https://github.com/hpmicro)
 - Gitee 镜像：[HPMicro 官方镜像](https://gitee.com/hpmicro)
-- **官方SDK**：[hpmicro/hpm_sdk](https://github.com/hpmicro/hpm_sdk)
+- **官方SDK**：[hpmicro/hpm_sdk](https://github.com/hpmicro/hpm_sdk) v1.6.0
   - HPM SDK文档（中文）：[HPM SDK 文档](https://hpm-sdk.readthedocs.io/zh-cn/latest/)
   - HPM SDK文档（英文）：[HPM SDK Documentation](http://doc.hpmicro.com/sdk_doc/en/latest/html/index.html)
+  - Development Environment for Windows [hpmicro/sdk_env](https://github.com/hpmicro/sdk_env)
+  - 应用软件开发套件：[hpmicro/hpm_apps](https://github.com/hpmicro/hpm_apps) v1.6.0
+  - 社区示例代码: [hpmicro/hpm_sdk_extra](https://github.com/hpmicro/hpm_sdk_extra)
 - Arduino 支持：[hpmicro/arduino](https://github.com/hpmicro/arduino)
-- HPMicro 烧写工具：[hpm_manufacturing_tool](https://github.com/hpmicro/hpm_manufacturing_tool)
+- GNU GCC 工具链: [hpmicro/riscv-gnu-toolchain](https://github.com/hpmicro/riscv-gnu-toolchain)
 - OpenOCD 分支：[hpmicro/riscv-openocd](https://github.com/hpmicro/riscv-openocd)
   - 相应的配置文件位于 `hpm_sdk/boards/openocd/`
+- HPMicro 烧写工具：[hpm_manufacturing_tool](https://github.com/hpmicro/hpm_manufacturing_tool)
 - VSCode扩展：[hpm_pinmux_tool](https://github.com/hpmicro/hpm_pinmux_tool) - 自2023年9月27日起未更新，请使用引脚复用工具代替。
 
 ### 第三方 RTOS 支持
@@ -32,6 +36,7 @@
 - NuttX: [hpmicro/nuttx](https://github.com/hpmicro/nuttx)
   - [hpmicro/nuttx_apps](https://github.com/hpmicro/nuttx_apps)
 - RT-Thread: [RT-Thread/rt-thread/bsp/hpmicro](https://github.com/RT-Thread/rt-thread/tree/master/bsp/hpmicro)
+  - 官方代码仓库提供不同开发板适配的 `rtt-bsp-*`
 
 ### IDE 支持
 
@@ -48,6 +53,7 @@ RISC-V IP 核心由 晶心科技(Andes Technology Corporation)提供。
 M_CAN IP核心由Bosch提供。
 
 - 介绍和文档 [M_CAN - Bosch](https://www.bosch-semiconductors.com/ip-modules/can-ip-modules/m-can/)
+- 时间戳扩展 [TSU Add-on](https://www.bosch-semiconductors.com/ip-modules/can-ip-modules/tsu-for-m-can/)
 
 EtherCAT 从站控制器 IP 核由 倍福(Beckhoff Automation) 提供。
 
